@@ -360,6 +360,19 @@ ADDED THIS! */
   width: 100px;
 }
 
+.sponsorimages{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 700px;
+}
+
+.sponsorsblock{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 
