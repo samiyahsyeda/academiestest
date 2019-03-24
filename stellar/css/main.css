@@ -1692,7 +1692,7 @@ input::-moz-focus-inner {
 .s-header.sticky {
   position: fixed;
   top: 0;
-  background-color: #000000 !important;
+  background-color: #00b7ff !important;
   opacity: 0;
   visibility: hidden;
   z-index: 600;
@@ -1708,8 +1708,10 @@ input::-moz-focus-inner {
 
 .s-header.sticky .header-nav-wrap {
   top: 0;
-  right: 20px;
+/*  right: 20px; */
   left: auto;
+  right: 0;
+
 }
 
 .s-header.sticky.scrolling {
@@ -1864,7 +1866,7 @@ input::-moz-focus-inner {
   letter-spacing: .3rem;
   position: absolute;
   top: 0;
-  left: 200px;
+  right: 0px;
 }
 
 .header-nav {
@@ -1938,7 +1940,7 @@ input::-moz-focus-inner {
     right: auto;
     top: 0;
     left: 0;
-    background-color: #000000;
+    background-color: #13bffb;
     padding: 120px 40px 21px;
   }
 
