@@ -358,6 +358,10 @@ ADDED THIS! */
   margin-right: auto;
   height: 100px;
   width: 100px;
+
+
+  filter: invert(1) brightness(100%) sepia(100%) saturate(0%);
+
 }
 
 .sponsorimages{
@@ -2716,7 +2720,7 @@ html.no-csstransitions .home-content__main {
   background-color: #151515;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(../images/services-bg.jpg);
+  background-image: url(../images/workshopsbackground.jpg);
   background-size: cover;
   position: relative;
   color: rgba(255, 255, 255, 0.5);
