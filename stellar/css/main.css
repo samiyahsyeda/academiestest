@@ -1012,6 +1012,8 @@ input[type="button"].btn--primary {
   color: #FFFFFF;
 }
 
+
+
 .btn.btn--primary:hover,
 button.btn--primary:hover,
 input[type="submit"].btn--primary:hover,
@@ -1513,27 +1515,32 @@ input::-moz-focus-inner {
 
 .btn-animatedbg {
   position: relative;
-  background: transparent !important;
-  border-color: #F26522 !important;
-  color: #FFFFFF !important;
+  background: rgb(20, 198, 236) !important;
+  /*border-color: #226af2 !important; */
+  color: white !important;
+  font-weight: bold;
+  font-size: 20px;
   height: 6.6rem;
   line-height: 6.2rem;
   padding: 0 8rem 0 4rem;
   overflow: hidden;
   z-index: 1;
+  border-radius: 12px;
 }
 
 .btn-animatedbg::before {
   content: "";
   height: 100%;
   width: 0;
-  background-color: #F26522;
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
+  background-color: #1fe651;
+
+/*  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; */
   position: absolute;
   top: 0;
   left: 0;
   z-index: -1;
+  border-radius: 12px;
 }
 
 .btn-animatedbg::after {
@@ -1545,8 +1552,8 @@ input::-moz-focus-inner {
   background-position: center center;
   background-image: url(../images/icons/icon-arrow-right.svg);
   background-size: contain;
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
+/*  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out; */
   margin-top: -1.1rem;
   position: absolute;
   top: 50%;
@@ -2035,7 +2042,7 @@ input::-moz-focus-inner {
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: .2;
+  opacity: 0.2;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
 }
 
