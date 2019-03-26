@@ -1583,7 +1583,7 @@ input::-moz-focus-inner {
   content: "";
   height: 100%;
   width: 0;
-  background-color: #1fe651;
+
 
 /*  -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; */
