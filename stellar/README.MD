@@ -1,12 +1,19 @@
 ## Release History
-      * 3-22-2019
+      * 3-24-2019
           * CHANGES:
-              * Linked tabs to sections of the page
+              * Removed social media logos from the Homepage
+              * Size and lettering of the workshop Icons
+              * size and centering of sponsor logos
+              * Color and effects of navigation bar
+              *
           * ADDED:
-              * Logos/ sponsors
-              * workshops
-              * background image
+              * AET HACKS logo at the top left corner of the navigation bar
+              * Icons for sponsor logos
+              * Icons for each workshop
+              * AET background image for homepage
               * Headings for each section
+              * Buttons for registration
+              
 
 
 ==================================================================================================
