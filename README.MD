@@ -1,3 +1,5 @@
+Rachel Muppidi, Samiyah Syeda, Sabrina Witham
+
  https://samiyahsyeda.github.io/academiestest/
 
 ## Release History
