@@ -378,6 +378,53 @@ ADDED THIS! */
   margin-right: auto;
 }
 
+.form-submit-button{
+  position: relative;
+  background: rgb(20, 198, 236) !important;
+  /*border-color: #226af2 !important; */
+  color: white !important;
+  font-weight: bold;
+  font-size: 20px;
+  height: 6.6rem;
+  line-height: 6.2rem;
+  padding: 0 8rem 0 4rem;
+  overflow: hidden;
+  z-index: 1;
+  border-radius: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
