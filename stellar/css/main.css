@@ -2688,6 +2688,8 @@ html.no-csstransitions .home-content__main {
   left: 0;
 }
 
+/*
+
 .about-process .item-process__header--planning::before {
   background-image: url(../images/icons/icon-planning.svg);
 }
@@ -2703,6 +2705,9 @@ html.no-csstransitions .home-content__main {
 .about-process .item-process__header--documentation::before {
   background-image: url(../images/icons/icon-documentation.svg);
 }
+
+
+*/
 
 
 /* -------------------------------------------------------------------
