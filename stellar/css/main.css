@@ -189,6 +189,7 @@ p.lead {
   font-size: 2.4rem;
   line-height: 1.875;
   margin-bottom: 3.6rem;
+  margin-left: 5rem;
   color: rgba(0, 0, 0, 0.45);
 }
 
@@ -1523,7 +1524,6 @@ input::-moz-focus-inner {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 1.6rem;
-  line-height: 1.333;
   text-transform: uppercase;
   letter-spacing: .25rem;
   color: #F26522;
@@ -1533,7 +1533,6 @@ input::-moz-focus-inner {
 }
 
 .subhead::before {
-  content: attr(data-num) ".";
   padding-right: 72px;
   font-weight: 700;
 }
