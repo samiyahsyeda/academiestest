@@ -399,10 +399,28 @@ ADDED THIS! */
 }
 
 
+.signupbutton{
+    position: relative;
+   background: rgb(20, 198, 236) !important;
+   /*border-color: #226af2 !important; */
+   color: white !important;
+   font-weight: bold;
+   font-size: 20px;
+   height: 6.6rem;
+   line-height: 6.2rem;
+   padding: 0 8rem 0 4rem;
+   overflow: hidden;
+   z-index: 1;
+   border-radius: 12px;
 
 
+   hover:   background-color: #1fe651;
+}
 
 
+.signupbutton::before{
+  background: rgb(163, 224, 72) !important;
+}
 
 
 
@@ -1004,7 +1022,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #F26522;
+  -webkit-text-fill-color: #22adf2;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -1081,7 +1099,7 @@ input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
   background: #ed560e;
-  border-color: #ed560e;
+  border-color: #0eb8ed;
 }
 
 /* button modifiers
@@ -1526,10 +1544,10 @@ input::-moz-focus-inner {
 .subhead {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  font-size: 1.6rem;
+  font-size: 6.4rem;
   text-transform: uppercase;
   letter-spacing: .25rem;
-  color: #F26522;
+  color: #22b0f2;
   margin-top: 0;
   margin-bottom: 3.6rem;
   position: relative;
@@ -2979,7 +2997,7 @@ html.no-csstransitions .home-content__main {
 .item-folio__project-link:hover,
 .item-folio__project-link:focus,
 .item-folio__project-link:active {
-  background-color: #F26522;
+  background-color: #22bff2;
   color: #FFFFFF;
 }
 
@@ -3519,7 +3537,7 @@ html.no-csstransitions .home-content__main {
 .s-contact .display-1 a:hover,
 .s-contact .display-1 a:focus,
 .s-contact .display-1 a:active {
-  color: #F26522;
+  color: white;
 }
 
 .s-contact h4 {
