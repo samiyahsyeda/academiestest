@@ -381,7 +381,22 @@ ADDED THIS! */
 
 .form-submit-button{
   position: relative;
-  background: rgb(228, 236, 20) !important;
+  background: rgb(212, 255, 0) !important;
+  /*border-color: #226af2 !important;
+  color: white !important; */
+  font-weight: bold;
+  font-size: 20px;
+  height: 6.6rem;
+  line-height: 6.2rem;
+  padding: 0 8rem 0 4rem;
+  overflow: hidden;
+  z-index: 1;
+  border-radius: 12px;
+}
+
+.form-submit-button:hover {
+  position: relative;
+  background: rgb(225, 236, 20) !important;
   /*border-color: #226af2 !important;
   color: white !important; */
   font-weight: bold;
@@ -412,21 +427,26 @@ ADDED THIS! */
    overflow: hidden;
    z-index: 1;
    border-radius: 12px;
-
-
-   hover:   background-color: #1fe651;
 }
 
 
 .signupbutton:hover{
+
+ position: relative;
+
+ color: white !important;
+ font-weight: bold;
+ font-size: 20px;
+ height: 6.6rem;
+ line-height: 6.2rem;
+ padding: 0 8rem 0 4rem;
+ overflow: hidden;
+ z-index: 1;
+ border-radius: 12px;
+
   background: rgb(85, 255, 0) !important;
   border-color: rgb(85, 255, 0);
 }
-
-
-
-
-
 
 
 
