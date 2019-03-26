@@ -381,8 +381,8 @@ ADDED THIS! */
 .form-submit-button{
   position: relative;
   background: rgb(20, 198, 236) !important;
-  /*border-color: #226af2 !important; */
-  color: white !important;
+  /*border-color: #226af2 !important;
+  color: white !important; */
   font-weight: bold;
   font-size: 20px;
   height: 6.6rem;
