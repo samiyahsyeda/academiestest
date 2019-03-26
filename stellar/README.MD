@@ -18,18 +18,34 @@
        * 3-25-2019
           * CHANGES:
               * Changed latin text to description of positions for experts, mentors, and judges
+              * Background image for workshops section
+              * special effects of FAQ section
+              * removed extra sponsors section
+              * linked buttons to new html pages
+              * removed unnecessary numbers and icons included in the template
+              * FAQ header
 
           * ADDED:
+              * Benefits of participating in Hackathon
+              * FAQ questions
+              * schedule section
+              * statement of authorship and school name for Contact Us section
+              * FAQ tab in navbar
+              * images for schedule section
+              * page breaks between FAQ and Contact Us
+
 
 
 
 ==================================================================================================
 
 ==================================================================================================
+
 CUSTOMER REQUESTS
 
     * Make horizontal Navbar
-    * Color/design
+    * Pleasing color/design
+    * Kid and Adult-friendly
 
 
 
@@ -38,17 +54,19 @@ CUSTOMER REQUESTS
 ==================================================================================================
 
 ==================================================================================================
+
 STATUS
 
   * Changes that need to be made:
-    * Navbar
-    * Icons
-    * Color and Design of website
+    * Add icons to schedule page
     * Take out shadowing effect at the top of the website
+    * Add information to registration webpages
 
   * Time:
     * 1 class
 
   * Questions:
-    --
+    * How do we change/remove the shadowing effect?
+    * Are there any forms of social media that we need to include in the footer?
+    * Should we make a google form/sign up genius for the website?
 -------------------------------------------------------------------------------------------------------
