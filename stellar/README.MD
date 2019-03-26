@@ -5,7 +5,7 @@
               * Size and lettering of the workshop Icons
               * size and centering of sponsor logos
               * Color and effects of navigation bar
-              *
+
           * ADDED:
               * AET HACKS logo at the top left corner of the navigation bar
               * Icons for sponsor logos
@@ -13,7 +13,14 @@
               * AET background image for homepage
               * Headings for each section
               * Buttons for registration
-              
+
+
+       * 3-25-2019
+          * CHANGES:
+              * Changed latin text to description of positions for experts, mentors, and judges
+
+          * ADDED:
+
 
 
 ==================================================================================================
