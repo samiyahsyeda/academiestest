@@ -189,6 +189,7 @@ p.lead {
   font-size: 2.4rem;
   line-height: 1.875;
   margin-bottom: 3.6rem;
+  margin-left: 5rem;
   color: rgba(0, 0, 0, 0.45);
 }
 
@@ -1509,7 +1510,6 @@ input::-moz-focus-inner {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 4.6rem;
-  line-height: 1.5;
   letter-spacing: -0.03rem;
   margin-top: 0;
   margin-bottom: 4.8rem;
@@ -1523,7 +1523,6 @@ input::-moz-focus-inner {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   font-size: 1.6rem;
-  line-height: 1.333;
   text-transform: uppercase;
   letter-spacing: .25rem;
   color: #F26522;
@@ -1533,7 +1532,6 @@ input::-moz-focus-inner {
 }
 
 .subhead::before {
-  content: attr(data-num) ".";
   padding-right: 72px;
   font-weight: 700;
 }
@@ -2767,7 +2765,7 @@ html.no-csstransitions .home-content__main {
   background-color: #151515;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(https://cdn.hipwallpaper.com/i/49/13/rjKeCL.jpg);
+  background-image: url(https://bloximages.newyork1.vip.townnews.com/loudountimes.com/content/tncms/assets/v3/editorial/d/5c/d5c26b7e-a570-11e8-ba1b-df261fb85da1/5b7c5b561351d.image.jpg);
   background-size: cover;
   position: relative;
   color: rgba(255, 255, 255, 0.5);
