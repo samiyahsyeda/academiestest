@@ -65,6 +65,11 @@ STATUS
     * Add icons to schedule page
     * Take out shadowing effect at the top of the website
     * Add information to registration webpages
+    * Get links for registration (from Katie)
+    * Finish schedule
+    * Make logo bigger and navbar text bigger
+    * Change ACL logo
+    * Make 4 buttons at top
 
   * Time:
     * 1 class
