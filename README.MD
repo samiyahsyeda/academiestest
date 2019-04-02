@@ -39,7 +39,14 @@ Rachel Muppidi, Samiyah Syeda, Sabrina Witham
               * page breaks between FAQ and Contact Us
 
 
-
+      * 3-25-2019
+          * CHANGES:
+              * Removed random quotation
+              * Changed Academies Hacks logo
+              * Changed "scroll" color
+              * Changed email in contact info
+              * Edited responsive design
+              * Edited judges, experts, etc.., description to offset the shift the times
 
 ==================================================================================================
 
