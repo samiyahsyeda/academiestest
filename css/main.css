@@ -418,7 +418,7 @@ ADDED THIS! */
 
 
 .signupbutton{
-    position: fixed;
+    position: static;
    background: rgb(20, 175, 236) !important;
    border-color:rgb(20, 175, 236);
    color: white !important;
