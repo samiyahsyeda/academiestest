@@ -382,11 +382,13 @@ ADDED THIS! */
   margin-right: auto;
 }
 
+
+/*
 .form-submit-button{
   position: absolute;
   background: rgb(212, 255, 0) !important;
   /*border-color: #226af2 !important;
-  color: white !important; */
+  color: white !important;
   font-weight: bold;
   font-size: 20px;
   height: 6.6rem;
@@ -401,7 +403,7 @@ ADDED THIS! */
   position: absolute;
   background: rgb(225, 236, 20) !important;
   /*border-color: #226af2 !important;
-  color: white !important; */
+  color: white !important;
   font-weight: bold;
   font-size: 20px;
   height: 6.6rem;
@@ -410,13 +412,13 @@ ADDED THIS! */
   overflow: hidden;
   z-index: 1;
   border-radius: 12px;
-}
+} */
 
 .col-block{
   text-align: center;
 }
 
-
+/*
 .signupbutton{
     position: absolute;
    background: rgb(20, 175, 236) !important;
@@ -453,7 +455,7 @@ ADDED THIS! */
   border-color: rgb(85, 255, 0);
 
     border-color: yellow;
-}
+} */
 
 
 
@@ -462,7 +464,14 @@ ADDED THIS! */
 }
 
 
+.scheduleimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1000px;
+  width: 1000px;
 
+}
 
 
 
@@ -1108,8 +1117,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #F26522;
-  border-color: #F26522;
+  background: #22d2f2;
+  border-color: #22d2f2;
   color: #FFFFFF;
 }
 
@@ -1125,7 +1134,7 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-  background: #ed560e;
+  background: #22d2f2;
   border-color: #0eb8ed;
 }
 
@@ -1381,7 +1390,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #F26522;
+  color:#22d2f2;
 }
 
 .stats-tabs li a em {
@@ -1588,7 +1597,7 @@ input::-moz-focus-inner {
 .subhead::after {
   content: "";
   display: block;
-  background-color: #F26522;
+  background-color: #22d2f2;
   height: 1px;
   margin-top: -1px;
   width: 4.5rem;
@@ -1625,6 +1634,7 @@ input::-moz-focus-inner {
   z-index: 1;
   border-radius: 12px;
   border-color: rgb(20, 198, 236);
+  text-align: center;
 }
 
 .btn-animatedbg:hover{
@@ -1641,6 +1651,7 @@ input::-moz-focus-inner {
   z-index: 1;
   border-radius: 12px;
   border-color: rgb(20, 236, 74);
+  text-align: center;
 }
 
 .btn-animatedbg::before {
@@ -1656,6 +1667,7 @@ input::-moz-focus-inner {
   left: 0;
   z-index: -1;
   border-radius: 12px;
+    text-align: center;
 }
 
 .btn-animatedbg::after {
@@ -1677,10 +1689,12 @@ input::-moz-focus-inner {
 
 .btn-animatedbg:hover::before {
   width: 100%;
+    text-align: center;
 }
 
 .btn-animatedbg:hover::after {
   right: 3rem;
+    text-align: center;
 }
 
 /* -------------------------------------------------------------------
@@ -2350,7 +2364,7 @@ input::-moz-focus-inner {
   background-color: #151515;
   font-size: 1.2rem;
   line-height: 30px;
-  color: #F26522;
+  color: #22bbf2;
   right: 50px;
   padding: 0 15px;
   margin: 3px 0;
