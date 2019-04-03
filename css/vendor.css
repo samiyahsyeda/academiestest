@@ -1,11 +1,11 @@
-/* =================================================================== 
+/* ===================================================================
  *
- *  Stellar v1.0 Vendor/Third Party CSS 
+ *  Stellar v1.0 Vendor/Third Party CSS
  *  05-16-2018
  *  ------------------------------------------------------------------
  *
  *  TOC:
- *  # animate on scroll 
+ *  # animate on scroll
  *  # slick slider
  *  # lity
  *  # PhotoSwipe main CSS
@@ -14,7 +14,7 @@
  * =================================================================== */
 
 /* ===================================================================
- * # animate on scroll 
+ * # animate on scroll
  * https://michalsnik.github.io/aos/
  * ------------------------------------------------------------------- */
 [data-aos][data-aos][data-aos-duration='50'],
@@ -1283,7 +1283,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 /* ===================================================================
  * # lity - v1.6.6 - 2016-04-22
  *   http://sorgalla.com/lity/
- *   Copyright (c) 2016 Jan Sorgalla; Licensed MIT 
+ *   Copyright (c) 2016 Jan Sorgalla; Licensed MIT
  * ------------------------------------------------------------------- */
 .lity {
   z-index: 9990;
@@ -1533,7 +1533,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
 /* ===================================================================
  * # PhotoSwipe main CSS by Dmitry Semenov
- *   photoswipe.com | MIT license 
+ *   photoswipe.com | MIT license
  * ------------------------------------------------------------------- */
 
 /*
@@ -1738,7 +1738,7 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 
 .pswp__error-msg a {
   color: #CCC;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* ===================================================================
@@ -1799,9 +1799,9 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   border: 0;
 }
 
-/* 
-pswp__ui--over-close class it added when mouse is 
-over element that should close gallery 
+/*
+pswp__ui--over-close class it added when mouse is
+over element that should close gallery
 */
 .pswp__ui--over-close .pswp__button--close {
   opacity: 1;
@@ -2161,8 +2161,8 @@ a.pswp__share--download:hover {
 
 .pswp--css_animation .pswp__preloader__cut {
 
-  /* 
-        The idea of animating inner circle is based on Polymer ("material") loading indicator 
+  /*
+        The idea of animating inner circle is based on Polymer ("material") loading indicator
          by Keanu Lee https://blog.keanulee.com/2014/10/20/the-tale-of-three-spinners.html
       */
   position: relative;
