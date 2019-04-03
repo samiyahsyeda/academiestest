@@ -391,7 +391,7 @@ ADDED THIS! */
   font-size: 20px;
   height: 6.6rem;
   line-height: 6.2rem;
-  padding: 0 8rem 0 4rem;
+ padding: 2rem 2rem 2rem 2rem;
   overflow: hidden;
   z-index: 1;
   border-radius: 12px;
@@ -406,7 +406,7 @@ ADDED THIS! */
   font-size: 20px;
   height: 6.6rem;
   line-height: 6.2rem;
-  padding: 0 8rem 0 4rem;
+ padding: 2rem 2rem 2rem 2rem;
   overflow: hidden;
   z-index: 1;
   border-radius: 12px;
@@ -451,112 +451,15 @@ ADDED THIS! */
 
   background: rgb(85, 255, 0) !important;
   border-color: rgb(85, 255, 0);
+
+    border-color: yellow;
 }
 
 
 
-.newbuttongroup button {
-  background-color: #13bffb; /* Green background */       /* #13bffb  */
-  border: 1px solid #13bffb; /* Green border */
-  color: white; /* White text */
-/*  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
-  float: left; /* Float the buttons side by side */
-  border-radius: 12px;
-  font-weight: bold;
-  font-size: 16px;
-  height: 6rem;
-  width: 17rem;
-  line-height: 6rem;
-  text-align: center;
-  display:inline-block;
-}
-
-.newbuttongroup button:not(:last-child) {
-  border-right: none; /* Prevent double borders */
-}
-
-/* Clear floats (clearfix hack) */
-.newbuttongroup:after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-/* Add a background color on hover */
-.newbuttongroup button:hover {
-  background-color: #00ff20;
-  border-color: #00ff20;
-  color: white;
-  border-radius: 12px;
-  font-weight: bold;
-  font-size: 16px;
-  height: 6rem;
-  width: 17rem;
-  line-height: 6rem;
-  text-align: center;
-  display:inline-block;
-}
-
-
-
-
-
-
-.newbuttongroup a  {
-  background-color: rgb(255, 147, 0); /* Green background */
-  border: 1px solid rgb(255, 147, 0); /* Green border */
-  color: white; /* White text */
-/*  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
-  float: left; /* Float the buttons side by side */
-  border-radius: 12px;
-  font-weight: bold;
-  font-size: 20px;
-  height: 6rem;
-  width: 17rem;
-  line-height: 6rem;
-  text-align: center;
-  display:inline-block;
-}
-
-.newbuttongroup a:not(:last-child) {
-  border-right: none; /* Prevent double borders */
-}
-
-/* Clear floats (clearfix hack) */
-.newbuttongroup:after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-/* Add a background color on hover */
-.newbuttongroup a:hover {
-  background-color: #f813fb;
-  border-color: #f813fb;
-  color: white;
-  border-radius: 12px;
-  font-weight: bold;
-  font-size: 20px;
-  height: 6rem;
-  width: 17rem;
-  line-height: 6rem;
-  text-align: center;
-  display:inline-block;
-}
-
-
-h5{
+.aclh5{
   color: white;
 }
-
-
-.aclspan{
-  color: rgb(0, 211, 255);
-}
-
-
 
 
 
@@ -1668,7 +1571,7 @@ input::-moz-focus-inner {
 .subhead {
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
-  font-size: 6.4rem;
+  font-size: 4.4rem;
   text-transform: uppercase;
   letter-spacing: .25rem;
   color: #22b0f2;
@@ -1721,6 +1624,7 @@ input::-moz-focus-inner {
   overflow: hidden;
   z-index: 1;
   border-radius: 12px;
+  border-color: rgb(20, 198, 236);
 }
 
 .btn-animatedbg:hover{
@@ -1736,7 +1640,7 @@ input::-moz-focus-inner {
   overflow: hidden;
   z-index: 1;
   border-radius: 12px;
-
+  border-color: rgb(20, 236, 74);
 }
 
 .btn-animatedbg::before {
@@ -2956,7 +2860,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-services a {
-  color: #F26522;
+  color: #00c9ff;
 }
 
 .s-services a:hover,
@@ -3676,7 +3580,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-contact .display-1 a {
-  color: #e3ff00;
+  color: #00c9ff;
 }
 
 .s-contact .display-1 a:hover,
