@@ -48,6 +48,20 @@ Rachel Muppidi, Samiyah Syeda, Sabrina Witham
               * Edited responsive design
               * Edited judges, experts, etc.., description to offset the shift the times
 
+      * 3-28-2019
+        * CHANGES:
+          * Logo
+          * Removed random quotations
+          * Color of "scroll" word
+          * Bolded sections throughout website
+
+
+      * 4-2-2019
+        * CHANGES:
+          * Quotation markings
+          * Removed sponsors 
+
+
 ==================================================================================================
 
 ==================================================================================================
