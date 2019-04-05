@@ -474,8 +474,9 @@ ADDED THIS! */
 }
 
 
-
-
+#test{
+  background: yellow;
+}
 
 
 
@@ -1638,22 +1639,17 @@ input::-moz-focus-inner {
 }
 
 .btn-animatedbg:hover{
-  position: relative;
+
   background: rgb(20, 236, 74) !important;
   /*border-color: #226af2 !important; */
   color: white !important;
   font-weight: bold;
-  font-size: 20px;
-  height: 6.6rem;
-  line-height: 6.2rem;
-  padding: 0 8rem 0 4rem;
-  overflow: hidden;
-  z-index: 1;
-  border-radius: 12px;
+
   border-color: rgb(20, 236, 74);
-  text-align: center;
+
 }
 
+/*
 .btn-animatedbg::before {
   content: "";
   height: 100%;
@@ -1661,7 +1657,7 @@ input::-moz-focus-inner {
 
 
 /*  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out; */
+  transition: all 0.2s ease-in-out;
   position: absolute;
   top: 0;
   left: 0;
@@ -1673,19 +1669,19 @@ input::-moz-focus-inner {
 .btn-animatedbg::after {
   display: block;
   content: "";
-  width: 2rem;
-  height: 2rem;
   background-repeat: no-repeat;
   background-position: center center;
   background-image: url(../images/icons/icon-arrow-right.svg);
   background-size: contain;
 /*  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out; */
+  transition: all 0.2s ease-in-out;
   margin-top: -1.1rem;
   position: absolute;
   top: 50%;
   right: 4rem;
 }
+ */
+/*
 
 .btn-animatedbg:hover::before {
   width: 100%;
@@ -1693,9 +1689,9 @@ input::-moz-focus-inner {
 }
 
 .btn-animatedbg:hover::after {
-  right: 3rem;
+
     text-align: center;
-}
+} */
 
 /* -------------------------------------------------------------------
  * responsive:
